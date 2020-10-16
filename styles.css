@@ -42,5 +42,22 @@ h2	{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+	width: 50%;
+	width:200;
+	height:40;
   }
+
+  .mybutton	{
+	font-size: 1.25em;
+	font-weight: 300;
+	text-align: center;
+	display: block;
+	background-color: rgba(18, 15, 136, 0.75);
+	width: 140px;
+	margin: 1.25em auto;
+	text-decoration: none;
+	color: rgba(255, 255, 255, 0.75);
+	padding: 0.25em;
+	border-radius: 4px;
+	transition: all 0.3s ease;
+}
